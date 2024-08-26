@@ -1,0 +1,34 @@
+###########################
+Variável Dependente
+###########################
+
+Área de interesse (por questionário)
+
+Observação: a série histórica disponível consta desde 2006, até 2023. 
+
+2018 = P27 (se 2, a que + lhe atrai)
+2019 = P28 (se 2, a que + lhe atrai)
+2020 = P26 (única)
+2021 = P26 (única ou múltipla/não especificado)
+2022 = P26 (múltipla)
+2023 = P28 (única)
+
+Em decorrência da falta de padrão nas respostas, pode ser possível trabalhar com a variável de qual área de pretensão da graduação dos estudantes. Da forma como o questionário foi elaborado, viola o princípio de exclusão. 
+
+Áreas de interesse:
+1 -> Antropologia
+2 -> Ciência Política
+3 -> Sociologia 
+4 -> Ainda não sabe
+5 -> Todas (excluir)
+6 -> Nenhuma (excluir)
+
+###########################
+Variáveis independentes
+###########################
+
+1. Gênero
+2. Raça
+3. Renda (definir um ano específico para tratar renda, ver Alcântara 2023)
+
+
